@@ -1,0 +1,332 @@
+{
+ "239": {
+  "name": "Stellenbosch.bmp",
+  "show": "239_Stellenbosch.png",
+  "kind": "image"
+ },
+ "242": {
+  "name": "39_Bragas_Map.TIF",
+  "show": "242_39_Bragas_Map.png",
+  "kind": "image"
+ },
+ "244": {
+  "name": "Shackles copy.bmp",
+  "show": "244_Shackles_copy.png",
+  "kind": "image"
+ },
+ "246": {
+  "name": "Santa Alberta.1593.tif",
+  "show": "246_Santa_Alberta.1593.png",
+  "kind": "image"
+ },
+ "248": {
+  "name": "39_Santa_Alberto.tif",
+  "show": "248_39_Santa_Alberto.png",
+  "kind": "image"
+ },
+ "250": {
+  "name": "Sao Jao2.tif",
+  "show": "250_Sao_Jao2.png",
+  "kind": "image"
+ },
+ "252": {
+  "name": "Carrack_Sao Thome_1602.tif",
+  "show": "252_Carrack_Sao_Thome_1602.png",
+  "kind": "image"
+ },
+ "259": {
+  "name": "OLE4",
+  "show": "259_OLE4.png",
+  "open": "259_OLE4.pdf",
+  "kind": "pdf"
+ },
+ "316": {
+  "name": "OLE33",
+  "show": "316_OLE33.png",
+  "open": "316_OLE33.pdf",
+  "kind": "pdf"
+ },
+ "324": {
+  "name": "OLE1",
+  "show": "324_OLE1.png",
+  "open": "324_OLE1.pdf",
+  "kind": "pdf"
+ },
+ "329": {
+  "name": "OLE21",
+  "show": "329_OLE21.png",
+  "open": "329_OLE21.pdf",
+  "kind": "pdf"
+ },
+ "334": {
+  "name": "OLE23",
+  "show": "334_OLE23.png",
+  "open": "334_OLE23.pdf",
+  "kind": "pdf"
+ },
+ "339": {
+  "name": "OLE24",
+  "show": "339_OLE24.png",
+  "open": "339_OLE24.pdf",
+  "kind": "pdf"
+ },
+ "344": {
+  "name": "OLE25",
+  "show": "344_OLE25.png",
+  "open": "344_OLE25.pdf",
+  "kind": "pdf"
+ },
+ "349": {
+  "name": "OLE26",
+  "show": "349_OLE26.png",
+  "open": "349_OLE26.pdf",
+  "kind": "pdf"
+ },
+ "354": {
+  "name": "OLE27",
+  "show": "354_OLE27.png",
+  "open": "354_OLE27.pdf",
+  "kind": "pdf"
+ },
+ "359": {
+  "name": "OLE28",
+  "show": "359_OLE28.png",
+  "open": "359_OLE28.pdf",
+  "kind": "pdf"
+ },
+ "364": {
+  "name": "OLE29",
+  "show": "364_OLE29.png",
+  "open": "364_OLE29.pdf",
+  "kind": "pdf"
+ },
+ "369": {
+  "name": "OLE30",
+  "show": "369_OLE30.png",
+  "open": "369_OLE30.pdf",
+  "kind": "pdf"
+ },
+ "374": {
+  "name": "OLE31",
+  "show": "374_OLE31.png",
+  "open": "374_OLE31.pdf",
+  "kind": "pdf"
+ },
+ "385": {
+  "name": "Cape of Good Hope.bmp",
+  "show": "385_Cape_of_Good_Hope.png",
+  "kind": "image"
+ },
+ "391": {
+  "name": "Vergelengen.bmp",
+  "show": "391_Vergelengen.png",
+  "kind": "image"
+ },
+ "397": {
+  "name": "Paarl.bmp",
+  "show": "397_Paarl.png",
+  "kind": "image"
+ },
+ "403": {
+  "name": "Groot Constantia.bmp",
+  "show": "403_Groot_Constantia.png",
+  "kind": "image"
+ },
+ "409": {
+  "name": "Drakenstein.bmp",
+  "show": "409_Drakenstein.png",
+  "kind": "image"
+ },
+ "412": {
+  "name": "Guelke_Map1.jpg",
+  "show": "412_Guelke_Map1.jpg",
+  "kind": "image"
+ },
+ "414": {
+  "name": "Guelke_Map2.jpg",
+  "show": "414_Guelke_Map2.jpg",
+  "kind": "image"
+ },
+ "416": {
+  "name": "Guelke_Map3.jpg",
+  "show": "416_Guelke_Map3.jpg",
+  "kind": "image"
+ },
+ "418": {
+  "name": "Guelke_Map5.jpg",
+  "show": "418_Guelke_Map5.jpg",
+  "kind": "image"
+ },
+ "420": {
+  "name": "Guelke_Map6.jpg",
+  "show": "420_Guelke_Map6.jpg",
+  "kind": "image"
+ },
+ "422": {
+  "name": "Guelke_Map7.jpg",
+  "show": "422_Guelke_Map7.jpg",
+  "kind": "image"
+ },
+ "424": {
+  "name": "Guelke_Map8.jpg",
+  "show": "424_Guelke_Map8.jpg",
+  "kind": "image"
+ },
+ "426": {
+  "name": "Guelke_Map9.jpg",
+  "show": "426_Guelke_Map9.jpg",
+  "kind": "image"
+ },
+ "428": {
+  "name": "Guelke_Map10.jpg",
+  "show": "428_Guelke_Map10.jpg",
+  "kind": "image"
+ },
+ "430": {
+  "name": "Guelke_Map11.jpg",
+  "show": "430_Guelke_Map11.jpg",
+  "kind": "image"
+ },
+ "432": {
+  "name": "Guelke_Map12.jpg",
+  "show": "432_Guelke_Map12.jpg",
+  "kind": "image"
+ },
+ "434": {
+  "name": "Guelke_Map13.jpg",
+  "show": "434_Guelke_Map13.jpg",
+  "kind": "image"
+ },
+ "436": {
+  "name": "Guelke_Map14.jpg",
+  "show": "436_Guelke_Map14.jpg",
+  "kind": "image"
+ },
+ "438": {
+  "name": "1755_map_inhabitants.jpg",
+  "show": "438_1755_map_inhabitants.jpg",
+  "kind": "image"
+ },
+ "440": {
+  "name": "1786_THIBAULT_01.jpg",
+  "show": "440_1786_THIBAULT_01.jpg",
+  "kind": "image"
+ },
+ "442": {
+  "name": "lodge_outline_colour.tif",
+  "show": "442_lodge_outline_colour.png",
+  "kind": "image"
+ },
+ "447": {
+  "name": "Cape Town Thompson.bmp",
+  "show": "447_Cape_Town_Thompson.png",
+  "kind": "image"
+ },
+ "452": {
+  "name": "Cape Town 1887.bmp",
+  "show": "452_Cape_Town_1887.png",
+  "kind": "image"
+ },
+ "457": {
+  "name": "Cape Town Snow.bmp",
+  "show": "457_Cape_Town_Snow.png",
+  "kind": "image"
+ },
+ "462": {
+  "name": "Cape Town Thibault.bmp",
+  "show": "462_Cape_Town_Thibault.png",
+  "kind": "image"
+ },
+ "467": {
+  "name": "Cape Town 1933.bmp",
+  "show": "467_Cape_Town_1933.png",
+  "kind": "image"
+ },
+ "469": {
+  "name": "CH_FortifiedFountainon_Company_post.tif",
+  "show": "469_CH_FortifiedFountainon_Company_post.png",
+  "kind": "image"
+ },
+ "471": {
+  "name": "_111B8EB7D58E19",
+  "show": "471_111B8EB7D58E19.svg",
+  "open": "471_111B8EB7D58E19.wmf",
+  "kind": "image"
+ },
+ "474": {
+  "name": "_3D446FEB7D58E37",
+  "show": "474_3D446FEB7D58E37-1.png",
+  "open": "474_3D446FEB7D58E37.wmf",
+  "kind": "image"
+ },
+ "480": {
+  "name": "Cape Town 2001.bmp",
+  "show": "480_Cape_Town_2001.png",
+  "kind": "image"
+ },
+ "482": {
+  "name": "43_01_adult sex ratios.wmf",
+  "show": "482_43_01_adult_sex_ratios.svg",
+  "open": "482_43_01_adult_sex_ratios.wmf",
+  "kind": "image"
+ },
+ "484": {
+  "name": "43_02_regional sex ratios.WMF",
+  "show": "484_43_02_regional_sex_ratios.svg",
+  "open": "484_43_02_regional_sex_ratios.wmf",
+  "kind": "image"
+ },
+ "486": {
+  "name": "offenberg_Page_06_Theal_map.tif",
+  "show": "486_offenberg_Page_06_Theal_map.png",
+  "kind": "image"
+ },
+ "490": {
+  "name": "43_03_poulation pyramids.wmf",
+  "show": "490_43_03_poulation_pyramids.svg",
+  "open": "490_43_03_poulation_pyramids.wmf",
+  "kind": "image"
+ },
+ "494": {
+  "name": "offenberg_Page_15_20inch rainfall.tif",
+  "show": "494_offenberg_Page_15_20inch_rainfall.png",
+  "kind": "image"
+ },
+ "496": {
+  "name": "43_Loan farm applications_01.tif",
+  "show": "496_43_Loan_farm_applications_01.png",
+  "kind": "image"
+ },
+ "498": {
+  "name": "43_Fig 6 The arquebuses.gif",
+  "show": "498_43_Fig_6_The_arquebuses.gif",
+  "kind": "image"
+ },
+ "500": {
+  "name": "43_Fig 7 Title page of Westerman.gif",
+  "show": "500_43_Fig_7_Title_page_of_Westerman.gif",
+  "kind": "image"
+ },
+ "502": {
+  "name": "43_06_seasons_hunting applications.wmf",
+  "show": "502_43_06_seasons_hunting_applications.svg",
+  "open": "502_43_06_seasons_hunting_applications.wmf",
+  "kind": "image"
+ },
+ "504": {
+  "name": "Offenburger_Page_43_Image_0001.jpg",
+  "show": "504_Offenburger_Page_43_Image_0001.jpg",
+  "kind": "image"
+ },
+ "41837": {
+  "name": "Ancestry24_small.gif",
+  "show": "41837_Ancestry24_small.gif",
+  "kind": "image"
+ },
+ "42528": {
+  "name": "_16357FB7D75111C",
+  "show": "42528_16357FB7D75111C-1.png",
+  "open": "42528_16357FB7D75111C.wmf",
+  "kind": "image"
+ }
+}

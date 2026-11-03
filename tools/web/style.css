@@ -1,0 +1,36 @@
+/* Content pages. Colours follow the original infobase, which assumes a light page. */
+body { margin: 0; background: #ffffff; color: #000000; font: 12pt/1.35 Arial, Helvetica, sans-serif; }
+header.top { position: sticky; top: 0; z-index: 3; background: #f5f6f4; border-bottom: 1px solid #d9dee2;
+             padding: 6px 16px; font: 13px/1.4 -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+header.top .home { font-weight: 600; color: #2f6b4f; text-decoration: none; margin-right: 10px; }
+.crumbs { display: inline; color: #5f6b73; }
+.crumbs a { color: #5f6b73; }
+main { padding: 10px 16px 24px; max-width: 64em; }
+.pager { display: flex; justify-content: space-between; align-items: center; padding: 6px 16px; max-width: 64em;
+         font: 13px -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.pager a { color: #2f6b4f; }
+.pnum { color: #5f6b73; }
+p { margin: 0 0 4pt; }
+.rec { scroll-margin-top: 44px; }
+.rec.target { box-shadow: -6px 0 0 #f2c94c; }
+.lv1, .lv2 { margin-top: 14pt; }
+table { border-collapse: collapse; margin: 2pt 0 8pt; max-width: 100%; }
+td { vertical-align: top; padding: 1pt 5pt; }
+td p { margin: 0; }
+img { max-width: 100%; height: auto; }
+a.obj { display: inline-block; text-decoration: none; }
+.objlabel { display: block; font-size: 10pt; color: #2f6b4f; }
+.tab { display: inline-block; width: 2em; }
+.sup { vertical-align: super; font-size: 75%; }
+.sub { vertical-align: sub; font-size: 75%; }
+a.broken { color: inherit; text-decoration: none; cursor: default; }
+mark { background: #fff1a8; }
+.popup { color: #1a5aa6; border-bottom: 1px dotted #1a5aa6; cursor: pointer; }
+/* popups (mostly footnotes) open as a panel pinned to the bottom of the window */
+.popbody { display: none; position: fixed; z-index: 5; left: 50%; transform: translateX(-50%); bottom: 12px;
+           width: 36em; max-width: calc(100vw - 24px); max-height: 45vh; overflow: auto; background: #fffdf3; color: #000;
+           border: 1px solid #c9b77a; border-radius: 6px; padding: 10px 12px; box-shadow: 0 4px 18px rgba(0,0,0,.22);
+           font-size: 11pt; font-weight: normal; font-style: normal; text-align: left; cursor: auto; }
+.popup:hover .popbody, .popup:focus .popbody, .popup:focus-within .popbody { display: block; }
+.pp { display: block; margin-bottom: 5pt; }
+@media print { header.top, .pager { display: none; } }

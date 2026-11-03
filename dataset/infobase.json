@@ -1,0 +1,32 @@
+{
+ "title": "Changing Hands",
+ "source": "ChangingHands.nfo (Folio Views 4 infobase)",
+ "record_count": 205042,
+ "record_shard_size": 5000,
+ "levels": [
+  {
+   "name": "04lv",
+   "depth": 1
+  },
+  {
+   "name": "05lv",
+   "depth": 2
+  },
+  {
+   "name": "06lv",
+   "depth": 3
+  },
+  {
+   "name": "07lv",
+   "depth": 4
+  },
+  {
+   "name": "08lv",
+   "depth": 5
+  },
+  {
+   "name": "heading 1",
+   "depth": 6
+  }
+ ]
+}

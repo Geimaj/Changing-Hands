@@ -1,0 +1,2944 @@
+[
+ {
+  "kind": "paragraph",
+  "name": "Normal",
+  "class": "p-Normal",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "04lv",
+  "class": "p-04lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "05lv",
+  "class": "p-05lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "06lv",
+  "class": "p-06lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "07lv",
+  "class": "p-07lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "08lv",
+  "class": "p-08lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "09lv",
+  "class": "p-09lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "10lv",
+  "class": "p-10lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "11lv",
+  "class": "p-11lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "12lv",
+  "class": "p-12lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "13lv",
+  "class": "p-13lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "14lv",
+  "class": "p-14lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "15lv",
+  "class": "p-15lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "16lv",
+  "class": "p-16lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "17lv",
+  "class": "p-17lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "18lv",
+  "class": "p-18lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "19lv",
+  "class": "p-19lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "20lv",
+  "class": "p-20lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "21lv",
+  "class": "p-21lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "22lv",
+  "class": "p-22lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "23lv",
+  "class": "p-23lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "24lv",
+  "class": "p-24lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "25lv",
+  "class": "p-25lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "26lv",
+  "class": "p-26lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "27lv",
+  "class": "p-27lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "28lv",
+  "class": "p-28lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "29lv",
+  "class": "p-29lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "30lv",
+  "class": "p-30lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "31lv",
+  "class": "p-31lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "32lv",
+  "class": "p-32lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "33lv",
+  "class": "p-33lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "34lv",
+  "class": "p-34lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "35lv",
+  "class": "p-35lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "36lv",
+  "class": "p-36lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "37lv",
+  "class": "p-37lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "38lv",
+  "class": "p-38lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "39lv",
+  "class": "p-39lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "40lv",
+  "class": "p-40lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "01lv",
+  "class": "p-01lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "02lv",
+  "class": "p-02lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "03lv",
+  "class": "p-03lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "Ñ",
+  "class": "p-_",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "Clv",
+  "class": "p-Clv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "Dlv",
+  "class": "p-Dlv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "Elv",
+  "class": "p-Elv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "Flv",
+  "class": "p-Flv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "Glv",
+  "class": "p-Glv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "heading 1",
+  "class": "p-heading_1",
+  "css": {
+   "text-align": "center",
+   "font-weight": "bold",
+   "font-size": "36pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "heading 2",
+  "class": "p-heading_2",
+  "css": {
+   "text-align": "center",
+   "font-size": "18pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "heading 3",
+  "class": "p-heading_3",
+  "css": {
+   "text-align": "right",
+   "font-size": "20pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "heading 8",
+  "class": "p-heading_8",
+  "css": {
+   "font-size": "14pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "heading 9",
+  "class": "p-heading_9",
+  "css": {
+   "font-style": "italic",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "LSNAWP0",
+  "class": "p-LSNAWP0",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "LSNAWP1",
+  "class": "p-LSNAWP1",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "LSNAWP2",
+  "class": "p-LSNAWP2",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "heading 4",
+  "class": "p-heading_4",
+  "css": {
+   "text-align": "center",
+   "font-weight": "bold",
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "heading 5",
+  "class": "p-heading_5",
+  "css": {
+   "text-align": "center",
+   "font-weight": "bold",
+   "font-size": "14pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "heading 6",
+  "class": "p-heading_6",
+  "css": {
+   "text-align": "center",
+   "margin-left": "36pt",
+   "text-indent": "-36pt",
+   "font-weight": "bold",
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "Balloon Text",
+  "class": "p-Balloon_Text",
+  "css": {
+   "font-size": "8pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "Body Text",
+  "class": "p-Body_Text",
+  "css": {
+   "font-size": "11pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "Body Text 3",
+  "class": "p-Body_Text_3",
+  "css": {
+   "text-align": "center",
+   "font-weight": "bold",
+   "font-size": "18pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "Document Map",
+  "class": "p-Document_Map",
+  "css": {
+   "font-size": "12pt",
+   "background-color": "#000080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "el 2",
+  "class": "p-el_2",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "endnote text",
+  "class": "p-endnote_text",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "footer",
+  "class": "p-footer",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "footnote text",
+  "class": "p-footnote_text",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "header",
+  "class": "p-header",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "Normal (Web)",
+  "class": "p-Normal__Web_",
+  "css": {
+   "margin-top": "5pt",
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p01lv",
+  "class": "p-p01lv",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p02lv",
+  "class": "p-p02lv",
+  "css": {
+   "margin-left": "7.2pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p03lv",
+  "class": "p-p03lv",
+  "css": {
+   "margin-left": "14.4pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p04lv",
+  "class": "p-p04lv",
+  "css": {
+   "margin-left": "21.6pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p05lv",
+  "class": "p-p05lv",
+  "css": {
+   "margin-left": "28.8pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p06lv",
+  "class": "p-p06lv",
+  "css": {
+   "margin-left": "36pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p07lv",
+  "class": "p-p07lv",
+  "css": {
+   "margin-left": "43.2pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p08lv",
+  "class": "p-p08lv",
+  "css": {
+   "margin-left": "50.4pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p09lv",
+  "class": "p-p09lv",
+  "css": {
+   "margin-left": "57.6pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p0Line",
+  "class": "p-p0Line",
+  "css": {
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p1",
+  "class": "p-p1",
+  "css": {
+   "text-align": "center",
+   "margin-top": "3.6pt",
+   "font-weight": "bold",
+   "font-size": "14pt",
+   "color": "#ffffff",
+   "background-color": "#000080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p10lv",
+  "class": "p-p10lv",
+  "css": {
+   "margin-left": "64.8pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p11lv",
+  "class": "p-p11lv",
+  "css": {
+   "margin-left": "72pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p12lv",
+  "class": "p-p12lv",
+  "css": {
+   "margin-left": "79.2pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p13lv",
+  "class": "p-p13lv",
+  "css": {
+   "margin-left": "86.4pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p14lv",
+  "class": "p-p14lv",
+  "css": {
+   "margin-left": "93.6pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p16lv",
+  "class": "p-p16lv",
+  "css": {
+   "margin-left": "108pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p17lv",
+  "class": "p-p17lv",
+  "css": {
+   "margin-left": "115.2pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p18lv",
+  "class": "p-p18lv",
+  "css": {
+   "margin-left": "122.4pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p19lv",
+  "class": "p-p19lv",
+  "css": {
+   "margin-left": "129.6pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p2",
+  "class": "p-p2",
+  "css": {
+   "text-align": "center",
+   "margin-top": "3.6pt",
+   "font-weight": "bold",
+   "font-size": "12pt",
+   "color": "#000080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p20lv",
+  "class": "p-p20lv",
+  "css": {
+   "margin-left": "136.8pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p21lv",
+  "class": "p-p21lv",
+  "css": {
+   "margin-left": "144pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p22lv",
+  "class": "p-p22lv",
+  "css": {
+   "margin-left": "151.2pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p23lv",
+  "class": "p-p23lv",
+  "css": {
+   "margin-left": "158.4pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p24lv",
+  "class": "p-p24lv",
+  "css": {
+   "margin-left": "165.6pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p25lv",
+  "class": "p-p25lv",
+  "css": {
+   "margin-left": "172.8pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p26lv",
+  "class": "p-p26lv",
+  "css": {
+   "margin-left": "180pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p27lv",
+  "class": "p-p27lv",
+  "css": {
+   "margin-left": "187.2pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p28lv",
+  "class": "p-p28lv",
+  "css": {
+   "margin-left": "194.4pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p29lv",
+  "class": "p-p29lv",
+  "css": {
+   "margin-left": "201.6pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p3",
+  "class": "p-p3",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "12pt",
+   "color": "#ffffff",
+   "background-color": "#000080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p30lv",
+  "class": "p-p30lv",
+  "css": {
+   "margin-left": "208.8pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p31lv",
+  "class": "p-p31lv",
+  "css": {
+   "margin-left": "216pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p32lv",
+  "class": "p-p32lv",
+  "css": {
+   "margin-left": "223.2pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p33lv",
+  "class": "p-p33lv",
+  "css": {
+   "margin-left": "230.4pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p34lv",
+  "class": "p-p34lv",
+  "css": {
+   "margin-left": "237.6pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p35lv",
+  "class": "p-p35lv",
+  "css": {
+   "margin-left": "244.8pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p36lv",
+  "class": "p-p36lv",
+  "css": {
+   "margin-left": "252pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p37lv",
+  "class": "p-p37lv",
+  "css": {
+   "margin-left": "259.2pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p38lv",
+  "class": "p-p38lv",
+  "css": {
+   "margin-left": "266.4pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p39lv",
+  "class": "p-p39lv",
+  "css": {
+   "margin-left": "273.6pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p4",
+  "class": "p-p4",
+  "css": {
+   "margin-top": "3.6pt",
+   "font-weight": "bold",
+   "font-size": "12pt",
+   "color": "#ffffff",
+   "background-color": "#008080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p40lv",
+  "class": "p-p40lv",
+  "css": {
+   "margin-left": "280.8pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p5",
+  "class": "p-p5",
+  "css": {
+   "text-align": "justify",
+   "margin-top": "3.6pt",
+   "font-weight": "bold",
+   "font-size": "11pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p6",
+  "class": "p-p6",
+  "css": {
+   "text-align": "justify",
+   "margin-top": "3.6pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#000080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p7",
+  "class": "p-p7",
+  "css": {
+   "text-align": "justify",
+   "margin-top": "3.6pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#000080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p8",
+  "class": "p-p8",
+  "css": {
+   "text-align": "justify",
+   "margin-top": "3.6pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#000080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p9",
+  "class": "p-p9",
+  "css": {
+   "text-align": "justify",
+   "margin-top": "3.6pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#000080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p9T",
+  "class": "p-p9T",
+  "css": {
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "p9TI",
+  "class": "p-p9TI",
+  "css": {
+   "margin-left": "85.05pt",
+   "text-indent": "-85.05pt",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pAlphaLetters",
+  "class": "p-pAlphaLetters",
+  "css": {
+   "text-align": "center",
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "14pt",
+   "color": "#008000"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pAuthor",
+  "class": "p-pAuthor",
+  "css": {
+   "margin-top": "9pt",
+   "margin-left": "54pt",
+   "text-indent": "-54pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBCentre",
+  "class": "p-pBCentre",
+  "css": {
+   "text-align": "center",
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBgTurq",
+  "class": "p-pBgTurq",
+  "css": {
+   "font-size": "10pt",
+   "background-color": "#dcf5f5"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold",
+  "class": "p-pBold",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-11",
+  "class": "p-pBold-11",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "11pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-12",
+  "class": "p-pBold-12",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-13",
+  "class": "p-pBold-13",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "13pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-Blue-11",
+  "class": "p-pBold-Blue-11",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "11pt",
+   "color": "#1e0f7b"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-Blue-bgBluePurple-11",
+  "class": "p-pBold-Blue-bgBluePurple-11",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "11pt",
+   "color": "#1e0f7b",
+   "background-color": "#e7e4fc"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-Blue-bgLBlue-11",
+  "class": "p-pBold-Blue-bgLBlue-11",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "11pt",
+   "color": "#000080",
+   "background-color": "#ebf5ff"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-Blue-bgTurq",
+  "class": "p-pBold-Blue-bgTurq",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#000080",
+   "background-color": "#dcf5f5"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-bp0.25",
+  "class": "p-pBold-bp0_25",
+  "css": {
+   "margin-top": "7.1pt",
+   "font-weight": "bold",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBoldCenter",
+  "class": "p-pBoldCenter",
+  "css": {
+   "text-align": "center",
+   "font-weight": "bold",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-DGreen",
+  "class": "p-pBold-DGreen",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#4d5e65"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-DGreen-11",
+  "class": "p-pBold-DGreen-11",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "11pt",
+   "color": "#4d5e65"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-DGreen-12",
+  "class": "p-pBold-DGreen-12",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "12pt",
+   "color": "#4d5e65"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-DGreen-bgLGreen-11",
+  "class": "p-pBold-DGreen-bgLGreen-11",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "11pt",
+   "color": "#4d5e65",
+   "background-color": "#edede4"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-DGreen-bgLGreenA0.0",
+  "class": "p-pBold-DGreen-bgLGreenA0_0",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#4d5e65",
+   "background-color": "#edede4"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-DRuby-bgDTanA0.0",
+  "class": "p-pBold-DRuby-bgDTanA0_0",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#8f5545",
+   "background-color": "#e8e5e1"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-DRuby-bgTanA0.0",
+  "class": "p-pBold-DRuby-bgTanA0_0",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#800000",
+   "background-color": "#808080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBoldItalic",
+  "class": "p-pBoldItalic",
+  "css": {
+   "margin-top": "3.6pt",
+   "font-weight": "bold",
+   "font-style": "italic",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-Orange-12-Verd",
+  "class": "p-pBold-Orange-12-Verd",
+  "css": {
+   "margin-top": "5.65pt",
+   "font-weight": "bold",
+   "font-size": "12pt",
+   "color": "#fda43b"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-Purple-11",
+  "class": "p-pBold-Purple-11",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "11pt",
+   "color": "#860f7b"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-Purple-bgBluePurple",
+  "class": "p-pBold-Purple-bgBluePurple",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#860f7b",
+   "background-color": "#e7e4fc"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-Purple-bgBluePurple-12",
+  "class": "p-pBold-Purple-bgBluePurple-12",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "12pt",
+   "color": "#860f7b",
+   "background-color": "#e7e4fc"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-Red-bgRed",
+  "class": "p-pBold-Red-bgRed",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#cc0000",
+   "background-color": "#ffe1e1"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-Red-bgTurq-11",
+  "class": "p-pBold-Red-bgTurq-11",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "11pt",
+   "color": "#cc0000",
+   "background-color": "#dcf5f5"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-White-bgDGreen-11",
+  "class": "p-pBold-White-bgDGreen-11",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "11pt",
+   "color": "#ffffff",
+   "background-color": "#4d5e65"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBold-White-bgDGreenA0.0",
+  "class": "p-pBold-White-bgDGreenA0_0",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#ffffff",
+   "background-color": "#4d5e65"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBorder-bBlue-bgBlue",
+  "class": "p-pBorder-bBlue-bgBlue",
+  "css": {
+   "font-size": "10pt",
+   "background-color": "#ebf5ff"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBorder-Bold-Blue-14-BOS",
+  "class": "p-pBorder-Bold-Blue-14-BOS",
+  "css": {
+   "text-align": "center",
+   "margin-top": "18pt",
+   "font-weight": "bold",
+   "font-size": "14pt",
+   "color": "#1e0f7b"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBorder-Bold-Purple-bBlue-bgBlue-11",
+  "class": "p-pBorder-Bold-Purple-bBlue-bgBlue-11",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "11pt",
+   "color": "#860f7b",
+   "background-color": "#d2ebff"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBorder-Bold-Red-bgRed-11",
+  "class": "p-pBorder-Bold-Red-bgRed-11",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "11pt",
+   "color": "#cc0000",
+   "background-color": "#ffdada"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBorder-bRed-bgBlank",
+  "class": "p-pBorder-bRed-bgBlank",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBorder-bRed-bgRed",
+  "class": "p-pBorder-bRed-bgRed",
+  "css": {
+   "font-size": "10pt",
+   "background-color": "#fff3f3"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBorder-Ind-bPurple-bgPurple",
+  "class": "p-pBorder-Ind-bPurple-bgPurple",
+  "css": {
+   "margin-top": "4.25pt",
+   "margin-left": "36pt",
+   "font-size": "10pt",
+   "background-color": "#fff9ff"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBorder-Ind-bRed-bgRed",
+  "class": "p-pBorder-Ind-bRed-bgRed",
+  "css": {
+   "margin-top": "4.25pt",
+   "margin-left": "36pt",
+   "font-size": "10pt",
+   "background-color": "#fff9f9"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pBullet",
+  "class": "p-pBullet",
+  "css": {
+   "margin-top": "3.6pt",
+   "margin-left": "18pt",
+   "text-indent": "-18pt",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pCategory",
+  "class": "p-pCategory",
+  "css": {
+   "margin-left": "70.85pt",
+   "text-indent": "-70.85pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pCenter",
+  "class": "p-pCenter",
+  "css": {
+   "text-align": "center",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pCenter-9",
+  "class": "p-pCenter-9",
+  "css": {
+   "text-align": "center",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pCenterA0.0",
+  "class": "p-pCenterA0_0",
+  "css": {
+   "text-align": "center",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pCenterItalic",
+  "class": "p-pCenterItalic",
+  "css": {
+   "text-align": "center",
+   "font-style": "italic",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pCentre",
+  "class": "p-pCentre",
+  "css": {
+   "text-align": "center",
+   "margin-top": "3.6pt",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pComment",
+  "class": "p-pComment",
+  "css": {
+   "margin-top": "3.6pt",
+   "margin-left": "10.8pt",
+   "margin-right": "10.8pt",
+   "font-size": "8pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pField",
+  "class": "p-pField",
+  "css": {
+   "margin-left": "70.85pt",
+   "text-indent": "-70.85pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pFixed",
+  "class": "p-pFixed",
+  "css": {
+   "margin-top": "3.6pt",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pHidden",
+  "class": "p-pHidden",
+  "css": {
+   "display": "none",
+   "font-size": "8pt",
+   "color": "#808080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pIcon",
+  "class": "p-pIcon",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd0.2-0.2",
+  "class": "p-pInd0_2-0_2",
+  "css": {
+   "margin-left": "5.65pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd0.2-1.0-T1.0",
+  "class": "p-pInd0_2-1_0-T1_0",
+  "css": {
+   "margin-left": "28.35pt",
+   "text-indent": "-22.7pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd0.2-1.0-T1.0-A0.0-B0.2",
+  "class": "p-pInd0_2-1_0-T1_0-A0_0-B0_2",
+  "css": {
+   "margin-top": "4.25pt",
+   "margin-left": "28.35pt",
+   "text-indent": "-22.7pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd0.2-2.0-T1.0-2.0",
+  "class": "p-pInd0_2-2_0-T1_0-2_0",
+  "css": {
+   "margin-left": "56.7pt",
+   "text-indent": "-51.05pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd0.2-3.0-T1.0-2.0-3.0",
+  "class": "p-pInd0_2-3_0-T1_0-2_0-3_0",
+  "css": {
+   "margin-left": "85.05pt",
+   "text-indent": "-79.4pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd0.5-2.0-Bold-Verd",
+  "class": "p-pInd0_5-2_0-Bold-Verd",
+  "css": {
+   "margin-top": "1.8pt",
+   "margin-left": "56.7pt",
+   "text-indent": "-42.55pt",
+   "font-weight": "bold",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd1.0-1.0-A0.0-B0.0",
+  "class": "p-pInd1_0-1_0-A0_0-B0_0",
+  "css": {
+   "margin-left": "28.35pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd1.0-1.0-A0.0-B0.2",
+  "class": "p-pInd1_0-1_0-A0_0-B0_2",
+  "css": {
+   "margin-top": "4.25pt",
+   "margin-left": "28.35pt",
+   "text-indent": "-22.7pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd1.0-2.0-T2.0",
+  "class": "p-pInd1_0-2_0-T2_0",
+  "css": {
+   "margin-left": "56.7pt",
+   "text-indent": "-28.35pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd1.0-2.0-T2.0-Verd",
+  "class": "p-pInd1_0-2_0-T2_0-Verd",
+  "css": {
+   "margin-left": "56.7pt",
+   "text-indent": "-28.35pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd1.0-3.0-T3.0-Verd",
+  "class": "p-pInd1_0-3_0-T3_0-Verd",
+  "css": {
+   "margin-left": "85.05pt",
+   "text-indent": "-56.7pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd1.0-T1.0-Bold",
+  "class": "p-pInd1_0-T1_0-Bold",
+  "css": {
+   "margin-top": "7.1pt",
+   "margin-left": "28.35pt",
+   "text-indent": "-28.35pt",
+   "font-weight": "bold",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd1.0-T9.0",
+  "class": "p-pInd1_0-T9_0",
+  "css": {
+   "margin-left": "28.35pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd1.5-3.0-Verd",
+  "class": "p-pInd1_5-3_0-Verd",
+  "css": {
+   "margin-left": "85.05pt",
+   "text-indent": "-42.55pt",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd2.0-3.0-T3.0",
+  "class": "p-pInd2_0-3_0-T3_0",
+  "css": {
+   "margin-left": "85.05pt",
+   "text-indent": "-28.35pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd2.0-3.0-Verd",
+  "class": "p-pInd2_0-3_0-Verd",
+  "css": {
+   "margin-left": "85.05pt",
+   "text-indent": "-56.7pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd3.0-4.0-T4.0",
+  "class": "p-pInd3_0-4_0-T4_0",
+  "css": {
+   "margin-left": "113.4pt",
+   "text-indent": "-28.35pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pInd4.0-5.0-T5.0",
+  "class": "p-pInd4_0-5_0-T5_0",
+  "css": {
+   "margin-left": "141.75pt",
+   "text-indent": "-28.35pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pIndent",
+  "class": "p-pIndent",
+  "css": {
+   "text-align": "justify",
+   "margin-top": "3.6pt",
+   "margin-left": "18pt",
+   "text-indent": "-18pt",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pItalic",
+  "class": "p-pItalic",
+  "css": {
+   "font-style": "italic",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pLine",
+  "class": "p-pLine",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pLine-Blue",
+  "class": "p-pLine-Blue",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pLine-Purple",
+  "class": "p-pLine-Purple",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pPagebreak",
+  "class": "p-pPagebreak",
+  "css": {
+   "text-align": "right",
+   "margin-top": "18pt",
+   "font-size": "8pt",
+   "color": "#808080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pProgenitors",
+  "class": "p-pProgenitors",
+  "css": {
+   "margin-top": "9pt",
+   "font-weight": "bold",
+   "font-size": "11pt",
+   "color": "#008000"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pRightAlign",
+  "class": "p-pRightAlign",
+  "css": {
+   "text-align": "right",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pRightAlign-Tbl",
+  "class": "p-pRightAlign-Tbl",
+  "css": {
+   "text-align": "right",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pSingleSpacing",
+  "class": "p-pSingleSpacing",
+  "css": {
+   "font-size": "10pt",
+   "background-color": "#000000"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pTab",
+  "class": "p-pTab",
+  "css": {
+   "margin-top": "3.6pt",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pTable",
+  "class": "p-pTable",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pTable_8",
+  "class": "p-pTable_8",
+  "css": {
+   "font-size": "8pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pTable_8_BoldCen",
+  "class": "p-pTable_8_BoldCen",
+  "css": {
+   "text-align": "center",
+   "font-weight": "bold",
+   "font-size": "8pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pTable_BoldCenter",
+  "class": "p-pTable_BoldCenter",
+  "css": {
+   "text-align": "center",
+   "font-weight": "bold",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pTcentre",
+  "class": "p-pTcentre",
+  "css": {
+   "text-align": "center",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pTitle",
+  "class": "p-pTitle",
+  "css": {
+   "text-align": "justify",
+   "margin-top": "3.6pt",
+   "margin-left": "54pt",
+   "text-indent": "-54pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#000080"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pToc2",
+  "class": "p-pToc2",
+  "css": {
+   "margin-top": "7.1pt",
+   "margin-left": "5.65pt",
+   "font-weight": "bold",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pToc3",
+  "class": "p-pToc3",
+  "css": {
+   "margin-left": "17pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pToc4",
+  "class": "p-pToc4",
+  "css": {
+   "margin-left": "28.35pt",
+   "text-indent": "-14.15pt",
+   "font-weight": "bold",
+   "font-size": "10pt",
+   "color": "#a05030"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "pVerse",
+  "class": "p-pVerse",
+  "css": {
+   "margin-top": "3.6pt",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "toc 2",
+  "class": "p-toc_2",
+  "css": {
+   "margin-left": "10pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "paragraph",
+  "name": "toc 3",
+  "class": "p-toc_3",
+  "css": {
+   "margin-left": "20pt",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Balloon Text Char",
+  "class": "c-Balloon_Text_Char",
+  "css": {
+   "font-size": "8pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Body Text 3 Char",
+  "class": "c-Body_Text_3_Char",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Body Text Char",
+  "class": "c-Body_Text_Char",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "c8pt",
+  "class": "c-c8pt",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "8pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cB10pt",
+  "class": "c-cB10pt",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cB14pt",
+  "class": "c-cB14pt",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "14pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBI10pt",
+  "class": "c-cBI10pt",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "italic",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold",
+  "class": "c-cBold",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-bgGreen",
+  "class": "c-cBold-bgGreen",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "background-color": "#00ff00"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-bgRed",
+  "class": "c-cBold-bgRed",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "background-color": "#ff0000"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-bgYellow",
+  "class": "c-cBold-bgYellow",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "background-color": "#ffff00"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-Blue",
+  "class": "c-cBold-Blue",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "color": "#000080"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-Blue-11",
+  "class": "c-cBold-Blue-11",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "11pt",
+   "color": "#732ca4"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-DGreen",
+  "class": "c-cBold-DGreen",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "color": "#4d5e65"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-DGreen-11",
+  "class": "c-cBold-DGreen-11",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "11pt",
+   "color": "#4d5e65"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-Green-11",
+  "class": "c-cBold-Green-11",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "11pt",
+   "color": "#336666"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBoldItalic",
+  "class": "c-cBoldItalic",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "italic",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-Orange-11",
+  "class": "c-cBold-Orange-11",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "11pt",
+   "color": "#fda43b"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-Orange-12",
+  "class": "c-cBold-Orange-12",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "12pt",
+   "color": "#fda43b"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-Orange-12-Verd",
+  "class": "c-cBold-Orange-12-Verd",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "12pt",
+   "color": "#fda43b"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-Purple",
+  "class": "c-cBold-Purple",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "color": "#860f7b"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-Red",
+  "class": "c-cBold-Red",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "color": "#cc0000"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-Red-11",
+  "class": "c-cBold-Red-11",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "11pt",
+   "color": "#cc0000"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-Red-bgBluePurple-11",
+  "class": "c-cBold-Red-bgBluePurple-11",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "11pt",
+   "color": "#cc0000",
+   "background-color": "#e7e4fc"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cBold-Teal-11",
+  "class": "c-cBold-Teal-11",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "11pt",
+   "color": "#008080"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cCaption",
+  "class": "c-cCaption",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "8pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cEnvelope",
+  "class": "c-cEnvelope",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "9pt",
+   "vertical-align": "super"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cFieldName",
+  "class": "c-cFieldName",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "color": "#808080"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cGenLet",
+  "class": "c-cGenLet",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "color": "#08844e"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cHeading",
+  "class": "c-cHeading",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cI10pt",
+  "class": "c-cI10pt",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "italic",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cI8pt",
+  "class": "c-cI8pt",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "italic",
+   "font-size": "8pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cI9pt",
+  "class": "c-cI9pt",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "italic",
+   "font-size": "9pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cItalic",
+  "class": "c-cItalic",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "italic",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cSubContentHidden",
+  "class": "c-cSubContentHidden",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "display": "none",
+   "font-size": "8pt",
+   "color": "#808080"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cSubscript",
+  "class": "c-cSubscript",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "8pt",
+   "vertical-align": "sub"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cSuper",
+  "class": "c-cSuper",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "8pt",
+   "vertical-align": "super"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cSuperscript",
+  "class": "c-cSuperscript",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "8pt",
+   "vertical-align": "super"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cSymbol",
+  "class": "c-cSymbol",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cUnderline",
+  "class": "c-cUnderline",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "text-decoration": "underline",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "cWingdings",
+  "class": "c-cWingdings",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Default Paragraph Font",
+  "class": "c-Default_Paragraph_Font",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Document Map Char",
+  "class": "c-Document_Map_Char",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "endnote reference",
+  "class": "c-endnote_reference",
+  "css": {
+   "font-size": "7pt",
+   "vertical-align": "super"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Endnote Text Char",
+  "class": "c-Endnote_Text_Char",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "FollowedHyperlink",
+  "class": "c-FollowedHyperlink",
+  "css": {
+   "text-decoration": "underline",
+   "color": "#800080"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Footer Char",
+  "class": "c-Footer_Char",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "footnote reference",
+  "class": "c-footnote_reference",
+  "css": {
+   "font-size": "7pt",
+   "vertical-align": "super"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Footnote Text Char",
+  "class": "c-Footnote_Text_Char",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Header Char",
+  "class": "c-Header_Char",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Heading 1 Char",
+  "class": "c-Heading_1_Char",
+  "css": {
+   "font-weight": "bold",
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Heading 2 Char",
+  "class": "c-Heading_2_Char",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Heading 3 Char",
+  "class": "c-Heading_3_Char",
+  "css": {
+   "font-size": "12pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Heading 8 Char",
+  "class": "c-Heading_8_Char",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Heading 9 Char",
+  "class": "c-Heading_9_Char",
+  "css": {
+   "font-style": "italic",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Hyperlink",
+  "class": "c-Hyperlink",
+  "css": {
+   "text-decoration": "underline",
+   "color": "#0000ff"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "page number",
+  "class": "c-page_number",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Author",
+  "class": "c-Author",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Category",
+  "class": "c-Category",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Classification",
+  "class": "c-Classification",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Date",
+  "class": "c-Date",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "fActOption",
+  "class": "c-fActOption",
+  "css": {
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fActQues",
+  "class": "c-fActQues",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "color": "#000080"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fActResponse",
+  "class": "c-fActResponse",
+  "css": {
+   "color": "#008080"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fActTitle",
+  "class": "c-fActTitle",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "11pt",
+   "color": "#008080"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fBold",
+  "class": "c-fBold",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fCategory",
+  "class": "c-fCategory",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "fEditor",
+  "class": "c-fEditor",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Female",
+  "class": "c-Female",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "color": "#fd5543"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "FemaleFN",
+  "class": "c-FemaleFN",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "color": "#fd5543"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "FemaleSN",
+  "class": "c-FemaleSN",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "color": "#dd0b01"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fFshLnk",
+  "class": "c-fFshLnk",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fHeadWord",
+  "class": "c-fHeadWord",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "font-size": "11pt",
+   "color": "#000080"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fItalic",
+  "class": "c-fItalic",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "italic"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fLabel",
+  "class": "c-fLabel",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "color": "#008080"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fLang",
+  "class": "c-fLang",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "color": "#4d5e65"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fldFName",
+  "class": "c-fldFName",
+  "css": {
+   "color": "#808080"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fPdfLnk",
+  "class": "c-fPdfLnk",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "display": "none",
+   "font-size": "10pt",
+   "color": "#ff0000"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fPdfLnkTxt",
+  "class": "c-fPdfLnkTxt",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt",
+   "color": "#ff0000"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fPhotographer",
+  "class": "c-fPhotographer",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fPubDate",
+  "class": "c-fPubDate",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fPublisher",
+  "class": "c-fPublisher",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fSummary",
+  "class": "c-fSummary",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fTitle",
+  "class": "c-fTitle",
+  "css": {
+   "font-weight": "normal",
+   "font-style": "normal",
+   "font-size": "10pt"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fTranslator",
+  "class": "c-fTranslator",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "fUnderline",
+  "class": "c-fUnderline",
+  "css": {
+   "text-decoration": "underline"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "fWrkLnk",
+  "class": "c-fWrkLnk",
+  "css": {
+   "display": "none",
+   "font-size": "8pt",
+   "color": "#c0c0c0"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Group",
+  "class": "c-Group",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Index",
+  "class": "c-Index",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "keywords",
+  "class": "c-keywords",
+  "css": {
+   "display": "none",
+   "color": "#c0c0c0"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "Male",
+  "class": "c-Male",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "color": "#607afa"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "MaleFN",
+  "class": "c-MaleFN",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "color": "#607afa"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "MaleSN",
+  "class": "c-MaleSN",
+  "css": {
+   "font-weight": "bold",
+   "font-style": "normal",
+   "color": "#0258cc"
+  }
+ },
+ {
+  "kind": "character",
+  "name": "MediaAudio",
+  "class": "c-MediaAudio",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "MediaPhoto",
+  "class": "c-MediaPhoto",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "MediaText",
+  "class": "c-MediaText",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "MediaVideo",
+  "class": "c-MediaVideo",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Note",
+  "class": "c-Note",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Owner",
+  "class": "c-Owner",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Popup",
+  "class": "c-Popup",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Preview",
+  "class": "c-Preview",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Price",
+  "class": "c-Price",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "PubDate",
+  "class": "c-PubDate",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Publisher",
+  "class": "c-Publisher",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Summary",
+  "class": "c-Summary",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Term",
+  "class": "c-Term",
+  "css": {}
+ },
+ {
+  "kind": "character",
+  "name": "Title",
+  "class": "c-Title",
+  "css": {}
+ }
+]

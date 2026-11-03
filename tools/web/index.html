@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Changing Hands</title>
+<link rel="stylesheet" href="data/viewer.css">
+</head>
+<body>
+<header class="bar">
+  <button id="menu" class="menu" aria-label="Show contents">&#9776;</button>
+  <h1>Changing Hands <small>A calendar of bondage in Southern Africa 1550&ndash;1888</small></h1>
+  <form id="search" role="search">
+    <input id="q" type="search" placeholder="Search all records&hellip;" aria-label="Search all records" autocomplete="off">
+    <button type="submit">Search</button>
+  </form>
+</header>
+<div class="main">
+  <aside id="side">
+    <div class="tabs" role="tablist">
+      <button id="tab-toc" class="on" role="tab">Contents</button>
+      <button id="tab-res" role="tab">Search results</button>
+    </div>
+    <div id="toc" class="panel"></div>
+    <div id="results" class="panel" hidden>
+      <p class="hint">Type words in the search box. All words must appear in a record.
+        Add <code>*</code> to match word beginnings, e.g. <code>baptis*</code>.</p>
+    </div>
+  </aside>
+  <iframe id="view" name="view" title="Infobase text" src="pages/p00001.html"></iframe>
+</div>
+<script src="data/toc.js"></script>
+<script src="data/search/keys.js"></script>
+<script src="data/viewer.js"></script>
+</body>
+</html>

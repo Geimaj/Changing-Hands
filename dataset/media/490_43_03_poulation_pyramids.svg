@@ -1,0 +1,1219 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN"
+"http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd">
+<svg width="702" height="512"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+<desc>wmf2svg</desc>
+<rect x="0.022685" y="0.022695" width="682.310547" height="511.954590" 
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:white; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:white" />
+<polygon points="0.022685,0.022695 
+	682.333252,0.022695 682.333252,511.977295 0.022685,511.977295 0.022685,0.022695 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:white; stroke:none" />
+<polygon points="146.202927,34.428368 
+	146.202927,41.009930 146.202927,34.428368 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,41.781559 
+	146.202927,48.363121 146.202927,41.781559 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,49.134750 
+	146.202927,55.716312 146.202927,49.134750 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,56.487942 
+	146.202927,63.069504 146.202927,56.487942 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,63.841133 
+	146.202927,70.422691 143.117798,70.422691 143.117798,63.841133 146.202927,63.841133 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,71.194328 
+	146.202927,77.775887 140.713226,77.775887 140.713226,71.194328 146.202927,71.194328 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,78.547516 
+	146.202927,85.129082 140.713226,85.129082 140.713226,78.547516 146.202927,78.547516 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,85.900711 
+	146.202927,92.482269 140.078049,92.482269 140.078049,85.900711 146.202927,85.900711 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,93.253899 
+	146.202927,99.835464 134.497620,99.835464 134.497620,93.253899 146.202927,93.253899 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,100.607094 
+	146.202927,107.188652 123.382111,107.188652 123.382111,100.607094 146.202927,100.607094 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,107.960281 
+	146.202927,114.541847 117.211868,114.541847 117.211868,107.960281 146.202927,107.960281 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,115.313477 
+	146.202927,121.895035 62.360256,121.895035 62.360256,115.313477 146.202927,115.313477 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,122.666664 
+	146.202927,129.248230 139.488251,129.248230 139.488251,122.666664 146.202927,122.666664 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,130.019852 
+	146.202927,136.601425 133.862442,136.601425 133.862442,130.019852 146.202927,130.019852 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,137.373047 
+	146.202927,143.954605 129.552353,143.954605 129.552353,137.373047 146.202927,137.373047 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.202927,144.726242 
+	146.202927,151.307800 124.607086,151.307800 124.607086,144.726242 146.202927,144.726242 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,34.428368 
+	146.202927,41.009930 146.202927,34.428368 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,41.781559 
+	146.202927,48.363121 146.202927,41.781559 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,49.134750 
+	146.202927,55.716312 146.202927,49.134750 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,56.487942 
+	146.202927,63.069504 146.202927,56.487942 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,63.841133 
+	146.202927,70.422691 146.202927,63.841133 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,71.194328 
+	146.202927,77.775887 146.202927,71.194328 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,78.547516 
+	146.202927,85.129082 150.513016,85.129082 150.513016,78.547516 146.202927,78.547516 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,85.900711 
+	146.202927,92.482269 150.513016,92.482269 150.513016,85.900711 146.202927,85.900711 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,93.253899 
+	146.202927,99.835464 150.513016,99.835464 150.513016,93.253899 146.202927,93.253899 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.248291,100.607094 
+	146.248291,107.188652 151.737991,107.188652 151.737991,100.607094 146.248291,100.607094 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,107.960281 
+	146.202927,114.541847 163.443298,114.541847 163.443298,107.960281 146.202927,107.960281 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,115.313477 
+	146.202927,121.895035 165.938614,121.895035 165.938614,115.313477 146.202927,115.313477 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.248291,122.666664 
+	146.248291,129.248230 151.737991,129.248230 151.737991,122.666664 146.248291,122.666664 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,130.019852 
+	146.202927,136.601425 159.768372,136.601425 159.768372,130.019852 146.202927,130.019852 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,137.373047 
+	146.202927,143.954605 169.613541,143.954605 169.613541,137.373047 146.202927,137.373047 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.202927,144.726242 
+	146.202927,151.307800 176.418945,151.307800 176.418945,144.726242 146.202927,144.726242 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 134.925903 39.829788)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 134.925903 47.182980)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 134.925903 54.536171)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 134.925903 61.843971)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 131.886154 69.242554)"
+	>0.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 129.390839 76.550354)"
+	>1.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 129.390839 83.948936)"
+	>1.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 128.801025 91.256737)"
+	>1.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 123.220596 98.609932)"
+	>3.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 112.195824 105.917732)"
+	>6.5%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 105.980217 113.270920)"
+	>8.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 49.126907 120.624115)"
+	>23.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 128.211227 127.977303)"
+	>1.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 122.630791 135.330490)"
+	>3.5%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 118.320694 142.683685)"
+	>4.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 113.375435 150.036880)"
+	>6.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.151932 39.829788)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.151932 47.182980)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.151932 54.536171)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.151932 61.843971)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.151932 69.242554)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.151932 76.550354)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 153.462036 83.948936)"
+	>1.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 153.462036 91.256737)"
+	>1.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 153.462036 98.609932)"
+	>1.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 154.687012 105.917732)"
+	>1.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 166.392319 113.270920)"
+	>4.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 168.887634 120.624115)"
+	>5.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 154.687012 127.977303)"
+	>1.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 162.672028 135.330490)"
+	>3.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 172.607925 142.683685)"
+	>6.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 179.322601 150.036880)"
+	>8.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 29.381229 39.829788)"
+	>75+</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 47.182980)"
+	>70-74</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 54.536171)"
+	>65-69</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 61.843971)"
+	>60-64</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 69.242554)"
+	>55-59</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 76.550354)"
+	>50-54</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 83.948936)"
+	>45-49</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 91.256737)"
+	>40-44</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 98.609932)"
+	>35-39</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 105.917732)"
+	>30-34</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 113.270920)"
+	>25-29</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 120.624115)"
+	>20-24</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 127.977303)"
+	>15-19</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.352369 135.330490)"
+	>10-14</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 30.265026 142.683685)"
+	>5-9</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 30.265026 150.036880)"
+	>0-4</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 106.368584 29.026951)"
+	>1687 males</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 151.964844 29.026951)"
+	>1687 females</text>
+<polygon points="99.880760,24.896454 
+	105.551933,24.896454 105.551933,28.709219 99.880760,28.709219 99.880760,24.896454 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="145.522385,24.896454 
+	151.148193,24.896454 151.148193,28.709219 145.522385,28.709219 145.522385,24.896454 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,34.746098 
+	513.831238,40.964539 513.513672,40.964539 513.513672,34.746098 513.831238,34.746098 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,42.099289 
+	513.831238,48.317730 513.105347,48.317730 513.105347,42.099289 513.831238,42.099289 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,49.452484 
+	513.831238,55.670921 512.787781,55.670921 512.787781,49.452484 513.831238,49.452484 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,56.805676 
+	513.831238,63.024113 512.969238,63.024113 512.969238,56.805676 513.831238,56.805676 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,64.158867 
+	513.831238,70.377304 511.154449,70.377304 511.154449,64.158867 513.831238,64.158867 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,71.512054 
+	513.831238,77.730499 509.929474,77.730499 509.929474,71.512054 513.831238,71.512054 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,78.865250 
+	513.831238,85.083687 507.887878,85.083687 507.887878,78.865250 513.831238,78.865250 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,86.218437 
+	513.831238,92.436882 502.851868,92.436882 502.851868,86.218437 513.831238,86.218437 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,93.571632 
+	513.831238,99.790070 502.488892,99.790070 502.488892,93.571632 513.831238,93.571632 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,100.924820 
+	513.831238,107.143265 499.902863,107.143265 499.902863,100.924820 513.831238,100.924820 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,108.278015 
+	513.831238,114.496452 502.125946,114.496452 502.125946,108.278015 513.831238,108.278015 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,115.631203 
+	513.831238,121.849648 498.768616,121.849648 498.768616,115.631203 513.831238,115.631203 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,122.984398 
+	513.831238,129.202835 496.999207,129.202835 496.999207,122.984398 513.831238,122.984398 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,130.337585 
+	513.831238,136.556030 487.789215,136.556030 487.789215,130.337585 513.831238,130.337585 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,137.690781 
+	513.831238,143.909225 484.068909,143.909225 484.068909,137.690781 513.831238,137.690781 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,145.043976 
+	513.831238,151.262405 470.957153,151.262405 470.957153,145.043976 513.831238,145.043976 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,34.746098 
+	513.831238,40.964539 514.375671,40.964539 514.375671,34.746098 513.831238,34.746098 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,42.099289 
+	513.831238,48.317730 514.012756,48.317730 514.012756,42.099289 513.831238,42.099289 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,49.452484 
+	513.831238,55.670921 514.511780,55.670921 514.511780,49.452484 513.831238,49.452484 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,56.805676 
+	513.831238,63.024113 514.511780,63.024113 514.511780,56.805676 513.831238,56.805676 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,64.158867 
+	513.831238,70.377304 515.056213,70.377304 515.056213,64.158867 513.831238,64.158867 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,71.512054 
+	513.831238,77.730499 517.823792,77.730499 517.823792,71.512054 513.831238,71.512054 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,78.865250 
+	513.831238,85.083687 516.780273,85.083687 516.780273,78.865250 513.831238,78.865250 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,86.218437 
+	513.831238,92.436882 520.137634,92.436882 520.137634,86.218437 513.831238,86.218437 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.876648,93.571632 
+	513.876648,99.790070 521.861633,99.790070 521.861633,93.571632 513.876648,93.571632 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.876648,100.924820 
+	513.876648,107.143265 522.406067,107.143265 522.406067,100.924820 513.876648,100.924820 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,108.278015 
+	513.831238,114.496452 523.585693,114.496452 523.585693,108.278015 513.831238,108.278015 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,115.631203 
+	513.831238,121.849648 527.941162,121.849648 527.941162,115.631203 513.831238,115.631203 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,122.984398 
+	513.831238,129.202835 529.030029,129.202835 529.030029,122.984398 513.831238,122.984398 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,130.337585 
+	513.831238,136.556030 537.740906,136.556030 537.740906,130.337585 513.831238,130.337585 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,137.690781 
+	513.831238,143.909225 545.589844,143.909225 545.589844,137.690781 513.831238,137.690781 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,145.043976 
+	513.831238,151.262405 545.226868,151.262405 545.226868,145.043976 513.831238,145.043976 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 502.282043 39.965958)"
+	>0.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 501.873718 47.319149)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 501.510773 54.672340)"
+	>0.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 501.692230 61.980141)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 499.922821 69.378723)"
+	>0.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 498.652496 76.686523)"
+	>1.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 496.565491 84.130493)"
+	>1.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 491.574860 91.438301)"
+	>3.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 491.257263 98.746101)"
+	>3.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 488.625854 106.053902)"
+	>3.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 490.848938 113.407089)"
+	>3.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 487.582336 120.760284)"
+	>4.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 485.722198 128.113480)"
+	>4.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 476.557587 135.466660)"
+	>7.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 472.837280 142.819855)"
+	>8.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 457.723816 150.173050)"
+	>12.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 517.279358 39.965958)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 516.961731 47.319149)"
+	>0.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 517.460815 54.672340)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 517.460815 61.980141)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 518.005249 69.378723)"
+	>0.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 520.772766 76.686523)"
+	>1.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 519.683899 84.130493)"
+	>0.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 523.041260 91.438301)"
+	>1.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 524.810669 98.746101)"
+	>2.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 525.309692 106.053902)"
+	>2.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 526.534668 113.407089)"
+	>2.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 530.890137 120.760284)"
+	>4.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 531.933655 128.113480)"
+	>4.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 540.644592 135.466660)"
+	>6.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 548.493469 142.819855)"
+	>9.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 548.175903 150.173050)"
+	>8.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 397.145660 39.965958)"
+	>75+</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 47.319149)"
+	>70-74</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 54.672340)"
+	>65-69</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 61.980141)"
+	>60-64</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 69.378723)"
+	>55-59</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 76.686523)"
+	>50-54</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 84.085106)"
+	>45-49</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 91.392906)"
+	>40-44</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 98.746101)"
+	>35-39</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 106.053902)"
+	>30-34</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 113.407089)"
+	>25-29</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 120.760284)"
+	>20-24</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 128.113480)"
+	>15-19</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 135.466660)"
+	>10-14</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 398.029480 142.819855)"
+	>5-9</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 398.029480 150.173050)"
+	>0-4</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 473.996918 29.163120)"
+	>1765 males</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 519.593201 29.163120)"
+	>1765 females</text>
+<polygon points="467.463715,25.032623 
+	473.180267,25.032623 473.180267,28.845390 467.463715,28.845390 467.463715,25.032623 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.150696,25.032623 
+	518.776550,25.032623 518.776550,28.845390 513.150696,28.845390 513.150696,25.032623 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,197.832626 
+	146.339035,204.051071 146.339035,197.832626 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,205.185822 
+	146.339035,211.404251 145.794601,211.404251 145.794601,205.185822 146.339035,205.185822 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,212.539001 
+	146.339035,218.757446 145.114059,218.757446 145.114059,212.539001 146.339035,212.539001 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,219.892197 
+	146.339035,226.110641 145.114059,226.110641 145.114059,219.892197 146.339035,219.892197 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,227.245392 
+	146.339035,233.463837 143.163177,233.463837 143.163177,227.245392 146.339035,227.245392 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,234.598587 
+	146.339035,240.817017 143.344650,240.817017 143.344650,234.598587 146.339035,234.598587 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,241.951767 
+	146.339035,248.170212 138.762344,248.170212 138.762344,241.951767 146.339035,241.951767 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,249.304962 
+	146.339035,255.523407 139.941940,255.523407 139.941940,249.304962 146.339035,249.304962 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,256.658142 
+	146.339035,262.876587 133.590225,262.876587 133.590225,256.658142 146.339035,256.658142 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,264.011353 
+	146.339035,270.229797 132.319885,270.229797 132.319885,264.011353 146.339035,264.011353 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,271.364532 
+	146.339035,277.582977 128.962555,277.582977 128.962555,271.364532 146.339035,271.364532 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,278.717743 
+	146.339035,284.936157 116.349854,284.936157 116.349854,278.717743 146.339035,278.717743 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,286.070923 
+	146.339035,292.289368 118.663696,292.289368 118.663696,286.070923 146.339035,286.070923 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,293.424103 
+	146.339035,299.642548 124.879303,299.642548 124.879303,293.424103 146.339035,293.424103 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,300.777313 
+	146.339035,306.995758 119.707191,306.995758 119.707191,300.777313 146.339035,300.777313 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,308.130493 
+	146.339035,314.348938 115.986900,314.348938 115.986900,308.130493 146.339035,308.130493 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,197.832626 
+	146.339035,204.051071 146.339035,197.832626 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,205.185822 
+	146.339035,211.404251 146.520508,211.404251 146.520508,205.185822 146.339035,205.185822 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,212.539001 
+	146.339035,218.757446 146.339035,212.539001 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,219.892197 
+	146.339035,226.110641 146.339035,219.892197 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,227.245392 
+	146.339035,233.463837 146.339035,227.245392 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,234.598587 
+	146.339035,240.817017 146.520508,240.817017 146.520508,234.598587 146.339035,234.598587 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,241.951767 
+	146.339035,248.170212 147.745483,248.170212 147.745483,241.951767 146.339035,241.951767 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.384399,249.304962 
+	146.384399,255.523407 151.284302,255.523407 151.284302,249.304962 146.384399,249.304962 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.384399,256.658142 
+	146.384399,262.876587 151.647247,262.876587 151.647247,256.658142 146.384399,256.658142 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,264.011353 
+	146.339035,270.229797 152.373169,270.229797 152.373169,264.011353 146.339035,264.011353 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,271.364532 
+	146.339035,277.582977 159.995224,277.582977 159.995224,271.364532 146.339035,271.364532 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,278.717743 
+	146.339035,284.936157 173.832901,284.936157 173.832901,278.717743 146.339035,278.717743 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,286.070923 
+	146.339035,292.289368 161.764633,292.289368 161.764633,286.070923 146.339035,286.070923 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,293.424103 
+	146.339035,299.642548 166.755264,299.642548 166.755264,293.424103 146.339035,293.424103 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,300.777313 
+	146.339035,306.995758 173.651413,306.995758 173.651413,300.777313 146.339035,300.777313 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,308.130493 
+	146.339035,314.348938 173.288467,314.348938 173.288467,308.130493 146.339035,308.130493 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 135.152756 203.052475)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 134.562943 210.405670)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 133.837036 217.758865)"
+	>0.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 133.837036 225.066666)"
+	>0.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 131.931519 232.465256)"
+	>0.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 132.067627 239.773056)"
+	>0.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 127.439949 247.217026)"
+	>2.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 128.710297 254.524826)"
+	>1.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 122.313202 261.832611)"
+	>3.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 121.088234 269.140411)"
+	>4.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 117.685524 276.493622)"
+	>4.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 105.118202 283.846802)"
+	>8.5%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 107.386673 291.200012)"
+	>7.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 113.647652 298.553192)"
+	>6.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 108.520905 305.906372)"
+	>7.5%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 104.755241 313.259583)"
+	>8.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.288040 203.052475)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.424149 210.405670)"
+	>0.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.288040 217.758865)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.288040 225.066666)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.288040 232.465256)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.424149 239.773056)"
+	>0.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 150.694504 247.217026)"
+	>0.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 154.233307 254.524826)"
+	>1.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 154.596268 261.832611)"
+	>1.5%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 155.322174 269.140411)"
+	>1.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 162.989609 276.493622)"
+	>3.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 176.827271 283.846802)"
+	>7.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 164.713638 291.200012)"
+	>4.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 169.658905 298.553192)"
+	>5.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 176.600433 305.906372)"
+	>7.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 176.237473 313.259583)"
+	>7.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 29.653446 203.052475)"
+	>75+</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 210.405670)"
+	>70-74</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 217.758865)"
+	>65-69</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 225.066666)"
+	>60-64</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 232.465256)"
+	>55-59</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 239.773056)"
+	>50-54</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 247.171631)"
+	>45-49</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 254.479431)"
+	>40-44</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 261.832611)"
+	>35-39</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 269.140411)"
+	>30-34</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 276.493622)"
+	>25-29</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 283.846802)"
+	>20-24</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 291.200012)"
+	>15-19</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 298.553192)"
+	>10-14</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 30.537243 305.906372)"
+	>5-9</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 30.537243 313.259583)"
+	>0-4</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 106.504692 192.249649)"
+	>1711 males</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 152.100952 192.249649)"
+	>1711 females</text>
+<polygon points="99.971497,188.119156 
+	105.688042,188.119156 105.688042,191.931915 99.971497,191.931915 99.971497,188.119156 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="145.658493,188.119156 
+	151.284302,188.119156 151.284302,191.931915 145.658493,191.931915 145.658493,188.119156 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,197.832626 
+	513.831238,204.051071 513.241455,204.051071 513.241455,197.832626 513.831238,197.832626 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,205.185822 
+	513.831238,211.404251 513.422913,211.404251 513.422913,205.185822 513.831238,205.185822 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,212.539001 
+	513.831238,218.757446 512.833130,218.757446 512.833130,212.539001 513.831238,212.539001 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,219.892197 
+	513.831238,226.110641 511.562775,226.110641 511.562775,219.892197 513.831238,219.892197 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,227.245392 
+	513.831238,233.463837 510.746124,233.463837 510.746124,227.245392 513.831238,227.245392 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,234.598587 
+	513.831238,240.817017 509.158203,240.817017 509.158203,234.598587 513.831238,234.598587 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,241.951767 
+	513.831238,248.170212 506.299927,248.170212 506.299927,241.951767 513.831238,241.951767 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,249.304962 
+	513.831238,255.523407 507.116577,255.523407 507.116577,249.304962 513.831238,249.304962 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,256.658142 
+	513.831238,262.876587 503.577759,262.876587 503.577759,256.658142 513.831238,256.658142 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,264.011353 
+	513.831238,270.229797 499.086212,270.229797 499.086212,264.011353 513.831238,264.011353 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,271.364532 
+	513.831238,277.582977 498.451019,277.582977 498.451019,271.364532 513.831238,271.364532 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,278.717743 
+	513.831238,284.936157 497.634369,284.936157 497.634369,278.717743 513.831238,278.717743 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,286.070923 
+	513.831238,292.289368 492.507629,292.289368 492.507629,286.070923 513.831238,286.070923 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,293.424103 
+	513.831238,299.642548 488.832703,299.642548 488.832703,293.424103 513.831238,293.424103 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,300.777313 
+	513.831238,306.995758 483.887451,306.995758 483.887451,300.777313 513.831238,300.777313 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,308.130493 
+	513.831238,314.348938 481.437500,314.348938 481.437500,308.130493 513.831238,308.130493 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,197.832626 
+	513.831238,204.051071 514.012756,204.051071 514.012756,197.832626 513.831238,197.832626 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,205.185822 
+	513.831238,211.404251 514.647888,211.404251 514.647888,205.185822 513.831238,205.185822 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,212.539001 
+	513.831238,218.757446 515.056213,218.757446 515.056213,212.539001 513.831238,212.539001 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,219.892197 
+	513.831238,226.110641 514.239563,226.110641 514.239563,219.892197 513.831238,219.892197 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,227.245392 
+	513.831238,233.463837 515.827515,233.463837 515.827515,227.245392 513.831238,227.245392 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.876648,234.598587 
+	513.876648,240.817017 518.867249,240.817017 518.867249,234.598587 513.876648,234.598587 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,241.951767 
+	513.831238,248.170212 517.052490,248.170212 517.052490,241.951767 513.831238,241.951767 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.876648,249.304962 
+	513.876648,255.523407 520.455200,255.523407 520.455200,249.304962 513.876648,249.304962 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.876648,256.658142 
+	513.876648,262.876587 520.682068,262.876587 520.682068,256.658142 513.876648,256.658142 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.876648,264.011353 
+	513.876648,270.229797 521.498657,270.229797 521.498657,264.011353 513.876648,264.011353 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,271.364532 
+	513.831238,277.582977 525.899536,277.582977 525.899536,271.364532 513.831238,271.364532 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,278.717743 
+	513.831238,284.936157 527.305969,284.936157 527.305969,278.717743 513.831238,278.717743 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,286.070923 
+	513.831238,292.289368 533.566956,292.289368 533.566956,286.070923 513.831238,286.070923 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,293.424103 
+	513.831238,299.642548 535.744690,299.642548 535.744690,293.424103 513.831238,293.424103 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,300.777313 
+	513.831238,306.995758 538.194641,306.995758 538.194641,300.777313 513.831238,300.777313 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,308.130493 
+	513.831238,314.348938 549.491638,314.348938 549.491638,308.130493 513.831238,308.130493 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 501.964447 203.052475)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 502.191315 210.405670)"
+	>0.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 501.556122 217.758865)"
+	>0.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 500.376526 225.066666)"
+	>0.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 499.514496 232.465256)"
+	>0.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 497.835846 239.773056)"
+	>1.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 494.977570 247.217026)"
+	>2.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 495.794220 254.524826)"
+	>1.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 492.391510 261.832611)"
+	>2.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 487.899933 269.140411)"
+	>4.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 487.264771 276.493622)"
+	>4.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 486.357391 283.846802)"
+	>4.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 481.276001 291.200012)"
+	>6.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 477.555725 298.553192)"
+	>7.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 472.655823 305.906372)"
+	>8.5%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 470.160492 313.259583)"
+	>9.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 516.961731 203.052475)"
+	>0.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 517.551575 210.405670)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 518.005249 217.758865)"
+	>0.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 517.143250 225.066666)"
+	>0.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 518.776550 232.465256)"
+	>0.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 521.770874 239.773056)"
+	>1.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 520.001526 247.217026)"
+	>0.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 523.449585 254.524826)"
+	>1.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 523.585693 261.832611)"
+	>1.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 524.447693 269.140411)"
+	>2.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 528.893921 276.493622)"
+	>3.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 530.255005 283.846802)"
+	>3.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 536.470581 291.200012)"
+	>5.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 538.693665 298.553192)"
+	>6.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 541.143616 305.906372)"
+	>6.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 552.440613 313.259583)"
+	>10.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 397.145660 203.052475)"
+	>75+</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 210.405670)"
+	>70-74</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 217.758865)"
+	>65-69</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 225.066666)"
+	>60-64</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 232.465256)"
+	>55-59</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 239.773056)"
+	>50-54</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 247.171631)"
+	>45-49</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 254.479431)"
+	>40-44</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 261.832611)"
+	>35-39</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 269.140411)"
+	>30-34</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 276.493622)"
+	>25-29</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 283.846802)"
+	>20-24</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 291.200012)"
+	>15-19</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 298.553192)"
+	>10-14</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 398.029480 305.906372)"
+	>5-9</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 398.029480 313.259583)"
+	>0-4</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 473.996918 192.249649)"
+	>1794 males</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 519.593201 192.249649)"
+	>1794 females</text>
+<polygon points="467.463715,188.119156 
+	473.180267,188.119156 473.180267,191.931915 467.463715,191.931915 467.463715,188.119156 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.150696,188.119156 
+	518.776550,188.119156 518.776550,191.931915 513.150696,191.931915 513.150696,188.119156 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,361.009918 
+	146.339035,367.228363 145.159424,367.228363 145.159424,361.009918 146.339035,361.009918 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,368.363129 
+	146.339035,374.581573 146.339035,368.363129 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,375.716309 
+	146.339035,381.934753 146.021454,381.934753 146.021454,375.716309 146.339035,375.716309 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,383.069489 
+	146.339035,389.287933 144.297409,389.287933 144.297409,383.069489 146.339035,383.069489 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,390.422699 
+	146.339035,396.641144 145.477020,396.641144 145.477020,390.422699 146.339035,390.422699 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,397.775879 
+	146.339035,403.994324 143.435394,403.994324 143.435394,397.775879 146.339035,397.775879 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,405.129089 
+	146.339035,411.347504 144.070557,411.347504 144.070557,405.129089 146.339035,405.129089 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,412.482269 
+	146.339035,418.700714 139.397507,418.700714 139.397507,412.482269 146.339035,412.482269 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,419.835449 
+	146.339035,426.053894 135.631851,426.053894 135.631851,419.835449 146.339035,419.835449 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,427.188660 
+	146.339035,433.407104 135.314270,433.407104 135.314270,427.188660 146.339035,427.188660 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,434.541840 
+	146.339035,440.760284 130.051422,440.760284 130.051422,434.541840 146.339035,434.541840 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,441.895050 
+	146.339035,448.113464 121.567337,448.113464 121.567337,441.895050 146.339035,441.895050 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,449.248230 
+	146.339035,455.466675 125.650581,455.466675 125.650581,449.248230 146.339035,449.248230 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,456.601410 
+	146.339035,462.819855 122.520096,462.819855 122.520096,456.601410 146.339035,456.601410 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,463.954620 
+	146.339035,470.173035 119.707191,470.173035 119.707191,463.954620 146.339035,463.954620 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="146.339035,471.307800 
+	146.339035,477.526245 111.676804,477.526245 111.676804,471.307800 146.339035,471.307800 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,361.009918 
+	146.339035,367.228363 146.339035,361.009918 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,368.363129 
+	146.339035,374.581573 146.339035,368.363129 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,375.716309 
+	146.339035,381.934753 146.747360,381.934753 146.747360,375.716309 146.339035,375.716309 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,383.069489 
+	146.339035,389.287933 146.747360,389.287933 146.747360,383.069489 146.339035,383.069489 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,390.422699 
+	146.339035,396.641144 147.427902,396.641144 147.427902,390.422699 146.339035,390.422699 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,397.775879 
+	146.339035,403.994324 147.427902,403.994324 147.427902,397.775879 146.339035,397.775879 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.384399,405.129089 
+	146.384399,411.347504 151.375031,411.347504 151.375031,405.129089 146.384399,405.129089 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,412.482269 
+	146.339035,418.700714 152.645386,418.700714 152.645386,412.482269 146.339035,412.482269 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.384399,419.835449 
+	146.384399,426.053894 153.189819,426.053894 153.189819,419.835449 146.384399,419.835449 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,427.188660 
+	146.339035,433.407104 157.590652,433.407104 157.590652,427.188660 146.339035,427.188660 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,434.541840 
+	146.339035,440.760284 155.775864,440.760284 155.775864,434.541840 146.339035,434.541840 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,441.895050 
+	146.339035,448.113464 162.309067,448.113464 162.309067,441.895050 146.339035,441.895050 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,449.248230 
+	146.339035,455.466675 163.397934,455.466675 163.397934,449.248230 146.339035,449.248230 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,456.601410 
+	146.339035,462.819855 170.566299,462.819855 170.566299,456.601410 146.339035,456.601410 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,463.954620 
+	146.339035,470.173035 180.139236,470.173035 180.139236,463.954620 146.339035,463.954620 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="146.339035,471.307800 
+	146.339035,477.526245 181.001266,477.526245 181.001266,471.307800 146.339035,471.307800 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 133.927780 366.229797)"
+	>0.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 135.152756 373.582977)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 134.835159 380.936157)"
+	>0.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 133.065750 388.243958)"
+	>0.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 134.245361 395.642548)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 132.249100 402.950348)"
+	>0.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 132.884277 410.394318)"
+	>0.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 128.120483 417.702118)"
+	>2.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 124.354828 425.009918)"
+	>3.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 124.037247 432.317719)"
+	>3.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 118.819763 439.670929)"
+	>4.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 110.290314 447.024109)"
+	>7.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 114.373558 454.377319)"
+	>5.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 111.288437 461.730499)"
+	>6.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 108.520905 469.083679)"
+	>7.5%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 100.445152 476.436890)"
+	>9.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.288040 366.229797)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.288040 373.582977)"
+	>0.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.696365 380.936157)"
+	>0.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 149.696365 388.243958)"
+	>0.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 150.331543 395.642548)"
+	>0.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 150.331543 402.950348)"
+	>0.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 154.369415 410.394318)"
+	>1.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 155.639755 417.702118)"
+	>1.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 156.138824 425.009918)"
+	>1.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 160.539658 432.317719)"
+	>3.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 158.724884 439.670929)"
+	>2.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 165.303452 447.024109)"
+	>4.5%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 166.301575 454.377319)"
+	>4.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 173.560684 461.730499)"
+	>6.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 183.042892 469.083679)"
+	>9.6%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 183.904907 476.436890)"
+	>9.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 29.653446 366.229797)"
+	>75+</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 373.582977)"
+	>70-74</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 380.936157)"
+	>65-69</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 388.243958)"
+	>60-64</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 395.642548)"
+	>55-59</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 402.950348)"
+	>50-54</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 410.348938)"
+	>45-49</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 417.656738)"
+	>40-44</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 425.009918)"
+	>35-39</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 432.317719)"
+	>30-34</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 439.670929)"
+	>25-29</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 447.024109)"
+	>20-24</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 454.377319)"
+	>15-19</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 26.624586 461.730499)"
+	>10-14</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 30.537243 469.083679)"
+	>5-9</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 30.537243 476.436890)"
+	>0-4</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 106.504692 355.426941)"
+	>1735 males</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 152.100952 355.426941)"
+	>1735 females</text>
+<polygon points="99.971497,351.296448 
+	105.688042,351.296448 105.688042,355.109222 99.971497,355.109222 99.971497,351.296448 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="145.658493,351.296448 
+	151.284302,351.296448 151.284302,355.109222 145.658493,355.109222 145.658493,351.296448 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,360.964539 
+	513.831238,367.182983 513.059998,367.182983 513.059998,360.964539 513.831238,360.964539 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,368.317719 
+	513.831238,374.536163 513.286804,374.536163 513.286804,368.317719 513.831238,368.317719 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,375.670929 
+	513.831238,381.889374 512.424805,381.889374 512.424805,375.670929 513.831238,375.670929 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,383.024109 
+	513.831238,389.242554 513.286804,389.242554 513.286804,383.024109 513.831238,383.024109 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,390.377319 
+	513.831238,396.595734 510.473907,396.595734 510.473907,390.377319 513.831238,390.377319 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,397.730499 
+	513.831238,403.948944 507.343445,403.948944 507.343445,397.730499 513.831238,397.730499 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,405.083679 
+	513.831238,411.302124 508.840607,411.302124 508.840607,405.083679 513.831238,405.083679 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,412.436890 
+	513.831238,418.655304 506.209198,418.655304 506.209198,412.436890 513.831238,412.436890 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,419.790070 
+	513.831238,426.008514 503.350922,426.008514 503.350922,419.790070 513.831238,419.790070 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,427.143250 
+	513.831238,433.361694 504.258301,433.361694 504.258301,427.143250 513.831238,427.143250 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,434.496460 
+	513.831238,440.714905 495.275177,440.714905 495.275177,434.496460 513.831238,434.496460 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,441.849640 
+	513.831238,448.068085 494.549255,448.068085 494.549255,441.849640 513.831238,441.849640 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,449.202850 
+	513.831238,455.421265 494.730743,455.421265 494.730743,449.202850 513.831238,449.202850 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,456.556030 
+	513.831238,462.774475 489.649353,462.774475 489.649353,456.556030 513.831238,456.556030 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,463.909210 
+	513.831238,470.127655 487.789215,470.127655 487.789215,463.909210 513.831238,463.909210 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polygon points="513.831238,471.262421 
+	513.831238,477.480865 483.297638,477.480865 483.297638,471.262421 513.831238,471.262421 "
+	style="fill-opacity:0.5; fill-rule:evenodd; fill:gainsboro; stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,360.964539 
+	513.831238,367.182983 514.647888,367.182983 514.647888,360.964539 513.831238,360.964539 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,368.317719 
+	513.831238,374.536163 514.511780,374.536163 514.511780,368.317719 513.831238,368.317719 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,375.670929 
+	513.831238,381.889374 514.829407,381.889374 514.829407,375.670929 513.831238,375.670929 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,383.024109 
+	513.831238,389.242554 515.010864,389.242554 515.010864,383.024109 513.831238,383.024109 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,390.377319 
+	513.831238,396.595734 516.190491,396.595734 516.190491,390.377319 513.831238,390.377319 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,397.730499 
+	513.831238,403.948944 518.186707,403.948944 518.186707,397.730499 513.831238,397.730499 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,405.083679 
+	513.831238,411.302124 517.687683,411.302124 517.687683,405.083679 513.831238,405.083679 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.876648,412.436890 
+	513.876648,418.655304 518.867249,418.655304 518.867249,412.436890 513.876648,412.436890 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.876648,419.790070 
+	513.876648,426.008514 521.226440,426.008514 521.226440,419.790070 513.876648,419.790070 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.876648,427.143250 
+	513.876648,433.361694 522.224609,433.361694 522.224609,427.143250 513.876648,427.143250 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,434.496460 
+	513.831238,440.714905 529.120728,440.714905 529.120728,434.496460 513.831238,434.496460 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,441.849640 
+	513.831238,448.068085 532.659546,448.068085 532.659546,441.849640 513.831238,441.849640 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,449.202850 
+	513.831238,455.421265 536.878906,455.421265 536.878906,449.202850 513.831238,449.202850 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,456.556030 
+	513.831238,462.774475 536.379883,462.774475 536.379883,456.556030 513.831238,456.556030 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,463.909210 
+	513.831238,470.127655 540.916809,470.127655 540.916809,463.909210 513.831238,463.909210 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<polyline points="513.831238,471.262421 
+	513.831238,477.480865 540.916809,477.480865 540.916809,471.262421 513.831238,471.262421 "
+	style="stroke-width:0.045380; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none; stroke:black" />
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 501.828339 366.184387)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 502.009827 373.537598)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 501.193176 380.890778)"
+	>0.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 502.009827 388.198578)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 499.196930 395.597168)"
+	>1.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 496.021057 402.904968)"
+	>1.9%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 497.518250 410.348938)"
+	>1.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 494.932190 417.656738)"
+	>2.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 492.073914 424.964539)"
+	>3.0%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 493.026672 432.272339)"
+	>2.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 484.043549 439.625519)"
+	>5.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 483.272247 446.978729)"
+	>5.5%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 483.453735 454.331909)"
+	>5.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 478.417725 461.685120)"
+	>6.8%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 476.557587 469.038300)"
+	>7.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 472.020630 476.391479)"
+	>8.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 517.596924 366.184387)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 517.460815 373.537598)"
+	>0.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 517.778381 380.890778)"
+	>0.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 517.914490 388.198578)"
+	>0.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 519.094116 395.597168)"
+	>0.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 521.135742 402.904968)"
+	>1.2%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 520.636658 410.348938)"
+	>1.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 521.861633 417.656738)"
+	>1.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 524.175476 424.964539)"
+	>2.1%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 525.173584 432.272339)"
+	>2.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 532.115112 439.625519)"
+	>4.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 535.653931 446.978729)"
+	>5.3%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 539.827942 454.331909)"
+	>6.5%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 539.283508 461.685120)"
+	>6.4%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 543.865784 469.038300)"
+	>7.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 543.865784 476.391479)"
+	>7.7%</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 397.145660 366.184387)"
+	>75+</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 373.537598)"
+	>70-74</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 380.890778)"
+	>65-69</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 388.198578)"
+	>60-64</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 395.597168)"
+	>55-59</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 402.904968)"
+	>50-54</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 410.303558)"
+	>45-49</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 417.611359)"
+	>40-44</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 424.964539)"
+	>35-39</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 432.272339)"
+	>30-34</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 439.625519)"
+	>25-29</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 446.978729)"
+	>20-24</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 454.331909)"
+	>15-19</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 394.116791 461.685120)"
+	>10-14</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 398.029480 469.038300)"
+	>5-9</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 398.029480 476.391479)"
+	>0-4</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 473.996918 355.381561)"
+	>1819 males</text>
+<text x="0" y="0" style="font-family:Helvetica; font-style:normal; font-weight:normal; font-size:6.990071; fill:black" transform="matrix(1.000000 -0.000000 0.000000 1.000000 519.593201 355.381561)"
+	>1819 females</text>
+<polygon points="467.463715,351.251068 
+	473.180267,351.251068 473.180267
